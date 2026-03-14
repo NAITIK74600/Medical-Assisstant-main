@@ -22,7 +22,7 @@ To get started with the project, follow the steps below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KalyanMurapaka45/Medical-Assisstant.git
+   git clone https://github.com/Naitik74600/Medical-Assisstant.git
    cd medical-query-generator
    ```
 
@@ -67,7 +67,6 @@ Contributions to the Medical Query Generator are welcome! If you have suggestion
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
+naitikraj74600@gmail.com
 
-- Your Name - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
-
-Project Link: [https://github.com/KalyanMurapaka45/Medical-Assisstant](https://github.com/KalyanMurapaka45/Medical-Assisstant)
+Project Link: [https://github.com/Naitik74600/Medical-Assisstant](https://github.com/KalyanMurapaka45/Medical-Assisstant)
