@@ -69,4 +69,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 naitikraj74600@gmail.com
 
-Project Link: [https://github.com/Naitik74600/Medical-Assisstant](https://github.com/KalyanMurapaka45/Medical-Assisstant)
+Project Link: [https://github.com/Naitik74600/Medical-Assisstant](https://github.com/Naitik74600/Medical-Assisstant)
